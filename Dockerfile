@@ -1,5 +1,5 @@
-# Use the barebones version of Ruby 2.2.3.
-FROM ruby:2.2.3-slim
+# Use the barebones version of Ruby ruby 3.0
+FROM ruby:3.0-slim
 
 # Optionally set a maintainer name to let people know who made this image.
 MAINTAINER Tina Barfield <t.barfield@gmail.com>
